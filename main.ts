@@ -1,6 +1,3 @@
-input.onPinPressed(TouchPin.P1, function () {
-	
-})
 basic.showString("Katarína")
 basic.showString("pani")
 basic.showString("Kvietočková")
@@ -13,6 +10,3 @@ basic.showLeds(`
     . # # # .
     . . # . .
     `)
-basic.forever(function () {
-	
-})
